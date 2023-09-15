@@ -33,10 +33,10 @@ To run this project, you need to have the following installed:
 ## Getting Started
 
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/DEVnitishOfficial/Insta_Frontend.git
 
    ## Change to the project directory:
-cd 
+cd Insta_frontend
 
 ## Install the project dependencies:
 npm install
