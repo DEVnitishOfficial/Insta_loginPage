@@ -1,6 +1,9 @@
 *{
   font-family: sans-serif;
 }
+body{
+  background-color: #8ee17eb3;
+}
 #User{
   display: flex;
   flex-direction: column;

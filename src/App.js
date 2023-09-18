@@ -16,7 +16,7 @@ function App() {
       <input hidden={login} type="text" name="" placeholder="Mobile Number or Email" id=""  />
       <input hidden={login} type="text" name="" placeholder="Full Name" id="" />
       <input type="email" email="" id="" placeholder="Phone number, username or email" />
-      <input type="text" name="" id="" placeholder="password" />
+      <input type="password" name="" id="" placeholder="password" />
       <button>{login?"Sign In" : "Sign Up"}</button>
       <div id="footer">
           {login?"Don't have account?" : "have an account?"}
